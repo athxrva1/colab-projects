@@ -1,0 +1,77 @@
+.bigbox{
+
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+}
+.box3{
+  order:1;
+  padding-right: 100px;
+}
+.box4{
+  order:4;
+  padding-left: 50px
+}
+.box1{
+  order: 2;
+  padding-left: 100px;
+  padding-right: 50px;
+}
+.box2{
+  order:3;
+  padding: 50px;
+  border: 1px lightgrey solid;
+  text-align: center;
+}
+
+.bo1{
+
+
+}
+.bo3 button{
+  border-color: white;
+  border-radius: 25px;
+  color:white;
+  background-color: #00bfff;
+  font-size: 25px;
+  padding-left: 100px;
+  padding-right: 100px;
+
+}
+
+.bo4{
+  color: #00bfff;
+
+}
+.bo4 label{
+  padding-right: 10px;
+}
+.bo4 a{
+
+  text-decoration: none;
+  color: #00bfff;
+}
+.bo4 a:hover{
+  color:blue;
+}
+
+.bo5 button{
+  border-color: lightgrey;
+  border-radius: 25px;
+  color:#00bfff;
+  background-color:white ;
+  font-size: 25px;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.bo6 button{
+  border-color: lightgrey;
+  border-radius: 25px;
+  color:black;
+  background-color:white ;
+  font-size: 25px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
