@@ -1,0 +1,34 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+  scroll-behavior: smooth;
+}
+.top {
+    width:100%;
+    height:100vh;
+    background: black;
+    position:relative;
+    text-align: center;
+    text
+  }
+
+  .top img{
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left:0;
+    opacity: 0.25;
+    
+  }
+
+.top h1{
+    color:white;
+
+}
+
+.top p{
+  color: white;
+}
